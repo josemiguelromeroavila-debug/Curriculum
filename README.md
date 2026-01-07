@@ -56,11 +56,6 @@
                     <li class="brand-txt">
                         <h5 class="brand-title">John Doe</h5>
                         <div class="brand-subtitle">Web Designer | Developer</div>
-                    </li>
-                </ul>
-               
-                    </li>
-                </ul>
             </div>
         </div>
     </nav>
